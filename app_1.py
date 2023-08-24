@@ -9,10 +9,10 @@ from threading import Thread
 
 # models
 model_paths = [
-    'FYP_deployment/mobilenetv2_6_Classes_model.keras',
-    'FYP_deployment/densenet121_6_Classes_85.66%.keras',
-    'FYP_deployment/vgg16_6_Classes_model.keras',
-    'FYP_deployment/resnet50v2_6_Classes_model.keras'
+    'mobilenetv2_6_Classes_model.keras',
+    'densenet121_6_Classes_85.66%.keras',
+    'vgg16_6_Classes_model.keras',
+    'resnet50v2_6_Classes_model.keras'
 ]
 
 model_names = [
